@@ -16,15 +16,4 @@ var persona = {   // de igual forma para el objeto
     edad: 30
 }
 
-console.log(elementos[2]); // consola es de igual forma una variable que le pertenece al navegador, con cierto espacio en memoria, y con un tipo de comportamiento especial. Donde Log es un método de la función
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
+
